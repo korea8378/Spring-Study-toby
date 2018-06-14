@@ -46,8 +46,7 @@ public class UserDao {
 	//디비 커넥션 코드부분을 분리(리팩토링)
 	private Connection getConnection() throws ClassNotFoundException, SQLException {
 		Class.forName("com.mysql.jdbc.Driver");
-		Connection c = DriverManager.getConnection("jdbc:mysql://lee-rds-mysql.catsbqkx8w6h.ap-northeast-2.rds.amazonaws.com/lee_database", "lee",
-				"zincc123");
+		Connection c = DriverManager.getConnection("jdbc:mysql://#","#","#");
 		return c;
 	}
 	
