@@ -1,7 +1,6 @@
 package springbook.user.dao;
 
 import java.sql.SQLException;
-
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import springbook.user.domain.User;
