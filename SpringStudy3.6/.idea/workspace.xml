@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8899f20-da26-4428-8702-14546c9deddc" name="Default" comment="" />
+    <list default="true" id="927ee77e-5903-4f85-898c-c4455becf1ce" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,23 +12,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="UserDaoTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/springbook/user/dao/UserDaoTest.java">
+      <file leaf-file-name="LineCallback.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/template/LineCallback.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="StatementStrategy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/springbook/user/dao/StatementStrategy.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="JUnitTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/junit/JUnitTest.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="DaoFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/springbook/user/dao/DaoFactory.java">
+      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/template/Calculator.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -37,23 +27,39 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
+      <file leaf-file-name="UserDaoTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/springbook/user/dao/UserDaoTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="JUnitTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/junit/JUnitTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="CalcSumTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/template/CalcSumTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/springbook/user/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="JdbcContext.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/springbook/user/dao/JdbcContext.java">
+      <file leaf-file-name="junit.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/junit/junit.xml">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="junit.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/junit/junit.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
+      <file leaf-file-name="numbers.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/template/numbers.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="test-applicationContext.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test-applicationContext.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -74,51 +80,65 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="SpringStudy3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringStudy3.5" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringStudy3.6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringStudy3.6" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringStudy3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringStudy3.5" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringStudy3.6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringStudy3.6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringStudy3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringStudy3.5" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="springbook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringStudy3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringStudy3.5" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringStudy3.6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringStudy3.6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="springbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringStudy3.6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringStudy3.6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="springbook" type="462c0819:PsiDirectoryNode" />
+              <item name="learningtest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringStudy3.6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringStudy3.6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="springbook" type="462c0819:PsiDirectoryNode" />
+              <item name="learningtest" type="462c0819:PsiDirectoryNode" />
               <item name="junit" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringStudy3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringStudy3.5" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringStudy3.6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringStudy3.6" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="springbook" type="462c0819:PsiDirectoryNode" />
+              <item name="learningtest" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringStudy3.6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringStudy3.6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="springbook" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringStudy3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringStudy3.5" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringStudy3.6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringStudy3.6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="springbook" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="SpringStudy3.5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringStudy3.5" type="462c0819:PsiDirectoryNode" />
+              <item name="SpringStudy3.6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringStudy3.6" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="springbook" type="462c0819:PsiDirectoryNode" />
               <item name="user" type="462c0819:PsiDirectoryNode" />
@@ -128,12 +148,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propGUI" />
   </component>
@@ -202,73 +223,73 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e8899f20-da26-4428-8702-14546c9deddc" name="Default" comment="" />
-      <created>1531228797214</created>
+      <changelist id="927ee77e-5903-4f85-898c-c4455becf1ce" name="Default" comment="" />
+      <created>1531231761643</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1531228797214</updated>
+      <updated>1531231761643</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Designer" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
+      <window_info id="UI Designer" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/springbook/user/dao/UserDaoTest.java">
+    <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/template/LineCallback.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/springbook/user/dao/StatementStrategy.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/junit/JUnitTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/springbook/user/dao/DaoFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/template/Calculator.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/springbook/user/domain/User.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/springbook/user/dao/UserDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/junit/JUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/template/CalcSumTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/springbook/user/dao/UserDao.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/springbook/user/dao/JdbcContext.java">
+    <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/junit/junit.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/junit/junit.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/src/springbook/learningtest/template/numbers.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test-applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -322,12 +343,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>SpringStudy3.5</last-edited>
+          <last-edited>SpringStudy3.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -347,7 +367,6 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>com.springsource.net.sf.cglib-2.2.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
